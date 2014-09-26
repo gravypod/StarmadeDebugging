@@ -1,0 +1,1 @@
+Take a thread dump whenever the starmade server falls offline
